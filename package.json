@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/roshanad/project-4/issues"
   },
-  "homepage": "https://github.com/roshanad/project-4#readme"
+  "homepage": "https://github.com/roshanad/project-4#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "hbs": "^4.0.0",
+    "mongoose": "^4.2.9",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.9",
+    "morgan": "^1.6.1"
+  }
 }
